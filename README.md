@@ -1,9 +1,5 @@
 # FinderBuster
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.6%2B-green.svg)
-![License](https://img.shields.io/badge/license-MIT-yellow.svg)
-
 ## OSINT Tool for Username Reconnaissance, Domain Information, and Social Media Profiling
 
 FinderBuster is a powerful OSINT (Open Source Intelligence) tool designed to help security researchers, penetration testers, and digital investigators gather information about usernames, domains, and social media profiles.
@@ -147,19 +143,16 @@ Results are saved in the `finderbuster_results` directory in JSON format with ti
 ## Example
 
 ```bash
-# Search for username "techguru" across platforms
-$ python finderbuster.py username techguru
+# Search for username "jhondoe" across platforms
+$ python finderbuster.py username jhondoe
 
 # Check information for domain "example.org"
 $ python finderbuster.py domain example.org
 
-# Extract GitHub profile information for user "octocat"
-$ python finderbuster.py social github octocat
+# Extract GitHub profile information for user "jhondoe"
+$ python finderbuster.py social github jhondoe
 ```
 
-## Screenshots
-
-(Add screenshots here of the tool in action)
 
 ## Limitations
 
