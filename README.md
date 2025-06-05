@@ -30,7 +30,7 @@ FinderBuster is a powerful OSINT (Open Source Intelligence) tool designed to hel
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/finderbuster.git
+git clone https://github.com/nieliebert/finderbuster.git
 cd finderbuster
 ```
 
